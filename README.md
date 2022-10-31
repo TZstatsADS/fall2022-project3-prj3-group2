@@ -5,7 +5,7 @@
 
 Term: Fall 2022
 
-+ Team ##
++ Team 2
 + Team members
 	+ team member 1
 	+ team member 2
