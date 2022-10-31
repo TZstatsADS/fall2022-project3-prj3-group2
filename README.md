@@ -7,11 +7,11 @@ Term: Fall 2022
 
 + Team 2
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Louis Cheng
+	+ Xiaoyuan Ge
+	+ Xinyun Li
+	+ Tianyu Yao
+	+ Ruiyu Zhang
 
 + Project summary: In this project, we created ...
 	
